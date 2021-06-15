@@ -3,7 +3,7 @@
 
 ## The Checklist
 
-**NB: if you have already competed an item there is no nead to repeat it, except for item 8**
+**NB: if you have already competed an item there is no need to repeat it, except for item 8**
 
 0. **watch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 1. **create** a github account - [link](https://github.com/join) - **email** your username to lpa2a@virginia.edu
@@ -15,14 +15,14 @@
     * **confirm** sucessful operation by running a [hello world program](https://github.com/UVADS/orientation-technical/blob/main/lessons/lesson-hello-world.md) in BASH (or other shell if you prefer)
 8. **install** R and Rstudio Desktop
     * [installation link](https://rstudio.com/products/rstudio/download/#download)
-    * **confirm** sucessful operation by running a hello world program
+    * **confirm** successful operation by running a hello world program
 10. **install** python and jupyter with anaconda
     * [installation link](https://docs.anaconda.com/anaconda/install/index.html)
-    * **confirm** sucessful operation by running a hello world program (using spyder **and** jupyter)
+    * **confirm** successful operation by running a hello world program (using spyder **and** jupyter)
 13. **familiarize** yourself with the Data Science Library Research Guide - [link](https://guides.lib.virginia.edu/datascience)
 14. **learn** about High Performance Computing at UVA
     * **read** - rc.virginia.edu
-    * **attend** - syncronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/88bfaea6197d0ac0174f517b46b1a21e70a01507/SDS%20event%20flyer%20FINAL.pdf)
+    * **attend** - synchronous session @ 3p on 6/17 (thur) - [flyer](https://github.com/UVADS/orientation-technical/blob/88bfaea6197d0ac0174f517b46b1a21e70a01507/SDS%20event%20flyer%20FINAL.pdf)
 1. **rewatch** Jurassic Park ([UVA Library](https://search.lib.virginia.edu/sources/uva_library/items/swank_0013371))
 
 ## Synchronous Sessions
